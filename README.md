@@ -18,7 +18,7 @@ A collection of deep learning and classical algorithms for removing noise and bl
   - Four classes: glioma, meningioma, pituitary tumor, no tumor  
   - Artificial motion blur and AWGN (σ = 0.15) applied  
 
-- **Comprehensive Evaluation**  
+- **Evaluation**  
   - Quantitative metrics: MSE, SSIM, PSNR  
   - Qualitative comparisons: example triplets and histograms  
   - Two scenarios: motion blur only, motion blur + noise  
